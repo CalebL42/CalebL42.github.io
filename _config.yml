@@ -21,7 +21,7 @@
 title: Caleb City
 email: calebee0462@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Caleb Lee's territory
+  You are in Caleb's territory
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CalebL42
