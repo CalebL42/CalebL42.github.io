@@ -6,7 +6,11 @@ categories: jekyll update
 ---
 ![Alt text](/assets/pfp.jpg)
 
-Hi everyone, my name is Caleb. I'm currently a Researcher in the SecLab at UCSB and I'm broadly interested in anything related to cybersecurity and cryptography.
+Hi everyone, my name is Caleb. I'm currently a Researcher in the SecLab at UCSB. I'm broadly interested in anything related to cybersecurity and cryptography.
 
 Here is a copy of my Resume:
 <object data="/assets/Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+Here are some cool pictures of hamsters:
+![Alt text](/assets/pumpkin.jpg)
+![Alt text](/assets/yammy.jpg)
