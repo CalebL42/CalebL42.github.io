@@ -12,5 +12,5 @@ Here is a copy of my Resume:
 <object data="/assets/Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 Here are some cool pictures of hamsters:
-![Alt text](/assets/pumpkin.jpg)
+![Alt text](/assets/pumpkin.png)
 ![Alt text](/assets/yammy.jpg)
