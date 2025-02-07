@@ -4,4 +4,9 @@ title:  "About Me"
 date:   2025-02-06 17:47:32 -0800
 categories: jekyll update
 ---
-![Alt text](/assets/pfp.jpg "A picture of Caleb")
+![Alt text](/assets/pfp.jpg)
+
+Hi everyone, my name is Caleb. I'm currently a Researcher in the SecLab at UCSB and I'm broadly interested in anything related to cybersecurity and cryptography.
+
+Here is a copy of my Resume:
+<object data="/assets/Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
